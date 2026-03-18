@@ -1,8 +1,80 @@
 {
+  "alarm": {
+    "sounds": ["custom/alarm"]
+  },
+  "babyaua": {
+    "sounds": ["custom/babyaua"]
+  },
+  "babyhallo": {
+    "sounds": ["custom/babyhallo"]
+  },
+  "babyich": {
+    "sounds": ["custom/babyich"]
+  },
+  "babyja": {
+    "sounds": ["custom/babyja"]
+  },
+  "babymama": {
+    "sounds": ["custom/babymama"]
+  },
+  "babymama2": {
+    "sounds": ["custom/babymama2"]
+  },
+  "babymein": {
+    "sounds": ["custom/babymein"]
+  },
+  "babynein": {
+    "sounds": ["custom/babynein"]
+  },
+  "babypapa": {
+    "sounds": ["custom/babypapa"]
+  },
+  "babyweinen": {
+    "sounds": ["custom/babyweinen"]
+  },
   "door_auf": {
-    "sounds": [ "custom/door_auf" ]
+    "sounds": ["custom/door_auf"]
   },
   "door_zu": {
-    "sounds": [ "custom/door_zu" ]
+    "sounds": ["custom/door_zu"]
+  },
+  "laboriz": {
+    "sounds": ["custom/laboriz"]
+  },
+  "laborma": {
+    "sounds": ["custom/laborma"]
+  },
+  "laborpd": {
+    "sounds": ["custom/laborpd"]
+  },
+  "na": {
+    "sounds": ["custom/na"]
+  },
+  "testaudio": {
+    "sounds": ["custom/testaudio"]
+  },
+  "doorkult": {
+    "sounds": ["custom/doorkult"]
+  },
+  "endoffen": {
+    "sounds": ["custom/endoffen"]
+  },
+  "glitch": {
+    "sounds": ["custom/glitch"]
+  },
+  "trollsound1": {
+    "sounds": ["custom/creeper-explosion"]
+  },
+  "trollsound2": {
+    "sounds": ["custom/raufasertapete"]
+  },
+  "trollsound3": {
+    "sounds": ["custom/grrrr-clash-royale"]
+  },
+  "trollsound4": {
+    "sounds": ["custom/duolingo-correct"]
+  }, 
+  "dinosound": {
+    "sounds": ["custom/Dinoshirsound"]
   }
 }
